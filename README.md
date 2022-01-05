@@ -1,4 +1,4 @@
 # slimtoutyp
 slightly improved touch typing
+[youtube video](https://youtu.be/wrHm5DTUQjM)
 ![keyboard](keyboard.jpg)
-[youtube](https://youtu.be/GYd88Sk9k4s)
